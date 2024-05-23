@@ -1,6 +1,6 @@
 Project completed for UF Spring 2024 CAP6610 - Machine Learning
 
-##Progressive Rock CNN Binary Classifier
+## Progressive Rock CNN Binary Classifier
 
 Documentation Items:
 - Analysis paper
